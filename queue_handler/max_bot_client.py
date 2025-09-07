@@ -1,7 +1,7 @@
 from aiomax import Bot
 from typing import Optional
 
-from logger_settings import logger
+from config.logger_settings import logger
 
 
 class MaxBotClient:
